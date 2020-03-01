@@ -1,0 +1,4 @@
+Syntax is how you write something
+Semantics is what the something means
+As a result typechecking performed before the program runs extends the static environment
+And the actual evaluation of the variables during runtime extends the dynamic environment
